@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OliviaWang86
 - 👀 I’m interested in reading, swimming and learning new technology.
 - 🌱 I’m currently learning PowerBI and Tableau
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Finance
 - 📫 How to reach me ...via email: tinygrass.via@gmail.com
 
 <!---
